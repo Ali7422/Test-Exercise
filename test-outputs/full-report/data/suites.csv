@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6257","verifyAllProducts","Default Suite","2026-11-25","broken","2026-11-25","com.automationexercise.tests.TC8_VerifyAllProducts","TestExercise","com.automationexercise.tests.TC8_VerifyAllProducts","verifyAllProducts"

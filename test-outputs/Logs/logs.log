@@ -1,0 +1,154 @@
+[INFO] - [25-11-2026 10:39:56] [main] [com.automationexercise.listeners.TestNGListeners] - Test Execution started
+[INFO] - [25-11-2026 10:39:56] [main] [com.automationexercise.listeners.TestNGListeners] - Directories cleaned
+[INFO] - [25-11-2026 10:39:56] [main] [com.automationexercise.utils.FilesUtils] - Directory created: test-outputs/screenshots/
+[INFO] - [25-11-2026 10:39:56] [main] [com.automationexercise.utils.FilesUtils] - Directory created: test-outputs/recordings/
+[INFO] - [25-11-2026 10:39:56] [main] [com.automationexercise.listeners.TestNGListeners] - Directories created
+[INFO] - [25-11-2026 10:39:56] [main] [com.automationexercise.utils.PropertiesUtils] - Loading Properties File Data
+[INFO] - [25-11-2026 10:39:56] [main] [com.automationexercise.listeners.TestNGListeners] - Properties loaded
+[INFO] - [25-11-2026 10:39:56] [main] [com.automationexercise.utils.allurereport.AllureEnvironmentManager] - Allure environment variables set.
+[INFO] - [25-11-2026 10:39:59] [main] [com.automationexercise.utils.allurereport.AllureBinaryManager$LazyHolder] - Resolved Allure version: 2.46.2
+[INFO] - [25-11-2026 10:40:21] [main] [com.automationexercise.utils.allurereport.AllureBinaryManager] - Allure binaries downloaded and extracted.
+[INFO] - [25-11-2026 10:40:21] [main] [com.automationexercise.listeners.TestNGListeners] - Allure environment set
+[INFO] - [25-11-2026 10:40:21] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Ghost\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[INFO] - [25-11-2026 10:40:39] [main] [com.automationexercise.utils.BrowserActions] - Open website with URL: https://automationexercise.com
+[INFO] - [25-11-2026 10:40:39] [main] [com.automationexercise.listeners.TestNGListeners] - Configuration Method  beforeClass passed
+[INFO] - [25-11-2026 10:40:40] [main] [com.automationexercise.listeners.TestNGListeners] - Configuration Method  loadRegisterData passed
+[INFO] - [25-11-2026 10:40:40] [main] [com.automationexercise.listeners.TestNGListeners] - Test Case RegisterUserAndLogout started
+[INFO] - [25-11-2026 10:40:43] [main] [com.automationexercise.utils.ElementActions] - Click on element  Signup / Login
+[INFO] - [25-11-2026 10:40:44] [main] [com.automationexercise.utils.ElementActions] - Type  testname_٢٠٢٦-١١-٢٥_١٠-٤٠-٤٠ in Name
+[INFO] - [25-11-2026 10:40:45] [main] [com.automationexercise.utils.ElementActions] - Type  testemail_٢٠٢٦-١١-٢٥_١٠-٤٠-٤٠@gmail.com in Email Address
+[INFO] - [25-11-2026 10:40:45] [main] [com.automationexercise.utils.ElementActions] - Click on element Signup
+[INFO] - [25-11-2026 10:40:56] [main] [com.automationexercise.utils.ScreenshotUtils] - Capturing Screenshot Succeeded
+[INFO] - [25-11-2026 10:41:01] [main] [com.automationexercise.listeners.TestNGListeners] - Test case RegisterUserAndLogout failed
+[INFO] - [25-11-2026 10:41:01] [main] [com.automationexercise.listeners.TestNGListeners] - Test Case validLogin started
+[INFO] - [25-11-2026 10:41:01] [main] [com.automationexercise.utils.ScreenshotUtils] - Capturing Screenshot Succeeded
+[INFO] - [25-11-2026 10:41:05] [main] [com.automationexercise.listeners.TestNGListeners] - Test case validLogin skipped
+[INFO] - [25-11-2026 10:41:06] [main] [com.automationexercise.listeners.TestNGListeners] - Configuration Method  closeBrowser passed
+[INFO] - [25-11-2026 10:41:12] [main] [com.automationexercise.listeners.TestNGListeners] - History copied
+[INFO] - [25-11-2026 10:41:18] [main] [com.automationexercise.utils.FilesUtils] - Target File Path: "C:\Users\Ghost\IdeaProjects\TestExercise\test-outputs\reports\index.html", file was renamed to "AllureReport_٢٠٢٦-١١-٢٥_١٠-٤١-١٨.html".
+[INFO] - [25-11-2026 10:41:19] [main] [com.automationexercise.listeners.TestNGListeners] - Test Execution Finished
+[INFO] - [25-11-2026 10:50:44] [main] [com.automationexercise.listeners.TestNGListeners] - Test Execution started
+[INFO] - [25-11-2026 10:50:44] [main] [com.automationexercise.listeners.TestNGListeners] - Directories cleaned
+[INFO] - [25-11-2026 10:50:44] [main] [com.automationexercise.utils.FilesUtils] - Directory created: test-outputs/screenshots/
+[INFO] - [25-11-2026 10:50:44] [main] [com.automationexercise.utils.FilesUtils] - Directory created: test-outputs/recordings/
+[INFO] - [25-11-2026 10:50:44] [main] [com.automationexercise.listeners.TestNGListeners] - Directories created
+[INFO] - [25-11-2026 10:50:44] [main] [com.automationexercise.utils.PropertiesUtils] - Loading Properties File Data
+[INFO] - [25-11-2026 10:50:44] [main] [com.automationexercise.listeners.TestNGListeners] - Properties loaded
+[INFO] - [25-11-2026 10:50:44] [main] [com.automationexercise.utils.allurereport.AllureEnvironmentManager] - Allure environment variables set.
+[INFO] - [25-11-2026 10:50:46] [main] [com.automationexercise.utils.allurereport.AllureBinaryManager$LazyHolder] - Resolved Allure version: 2.46.2
+[INFO] - [25-11-2026 10:50:46] [main] [com.automationexercise.utils.allurereport.AllureBinaryManager] - Allure binaries already exist.
+[INFO] - [25-11-2026 10:50:46] [main] [com.automationexercise.listeners.TestNGListeners] - Allure environment set
+[INFO] - [25-11-2026 10:50:46] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Ghost\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[INFO] - [25-11-2026 10:50:56] [main] [com.automationexercise.utils.BrowserActions] - Open website with URL: https://automationexercise.com
+[INFO] - [25-11-2026 10:50:56] [main] [com.automationexercise.listeners.TestNGListeners] - Configuration Method  beforeClass passed
+[INFO] - [25-11-2026 10:50:56] [main] [com.automationexercise.listeners.TestNGListeners] - Test Case registerExistingEmail started
+[INFO] - [25-11-2026 10:50:59] [main] [com.automationexercise.utils.ElementActions] - Click on element  Signup / Login
+[INFO] - [25-11-2026 10:51:00] [main] [com.automationexercise.utils.ElementActions] - Type  ashraf test in Name
+[INFO] - [25-11-2026 10:51:00] [main] [com.automationexercise.utils.ElementActions] - Type  test1@drmail.in in Email Address
+[INFO] - [25-11-2026 10:51:01] [main] [com.automationexercise.utils.ElementActions] - Click on element Signup
+[INFO] - [25-11-2026 10:51:01] [main] [com.automationexercise.utils.ScreenshotUtils] - Capturing Screenshot Succeeded
+[INFO] - [25-11-2026 10:51:06] [main] [com.automationexercise.listeners.TestNGListeners] - Test case registerExistingEmail passed
+[INFO] - [25-11-2026 10:51:06] [main] [com.automationexercise.listeners.TestNGListeners] - Configuration Method  closeBrowser passed
+[INFO] - [25-11-2026 10:51:11] [main] [com.automationexercise.listeners.TestNGListeners] - History copied
+[INFO] - [25-11-2026 10:51:18] [main] [com.automationexercise.utils.FilesUtils] - Target File Path: "C:\Users\Ghost\IdeaProjects\TestExercise\test-outputs\reports\index.html", file was renamed to "AllureReport_٢٠٢٦-١١-٢٥_١٠-٥١-١٧.html".
+[INFO] - [25-11-2026 10:51:19] [main] [com.automationexercise.listeners.TestNGListeners] - Test Execution Finished
+[INFO] - [25-11-2026 10:52:14] [main] [com.automationexercise.listeners.TestNGListeners] - Test Execution started
+[INFO] - [25-11-2026 10:52:14] [main] [com.automationexercise.listeners.TestNGListeners] - Directories cleaned
+[INFO] - [25-11-2026 10:52:14] [main] [com.automationexercise.utils.FilesUtils] - Directory created: test-outputs/screenshots/
+[INFO] - [25-11-2026 10:52:14] [main] [com.automationexercise.utils.FilesUtils] - Directory created: test-outputs/recordings/
+[INFO] - [25-11-2026 10:52:14] [main] [com.automationexercise.listeners.TestNGListeners] - Directories created
+[INFO] - [25-11-2026 10:52:14] [main] [com.automationexercise.utils.PropertiesUtils] - Loading Properties File Data
+[INFO] - [25-11-2026 10:52:14] [main] [com.automationexercise.listeners.TestNGListeners] - Properties loaded
+[INFO] - [25-11-2026 10:52:15] [main] [com.automationexercise.utils.allurereport.AllureEnvironmentManager] - Allure environment variables set.
+[INFO] - [25-11-2026 10:52:17] [main] [com.automationexercise.utils.allurereport.AllureBinaryManager$LazyHolder] - Resolved Allure version: 2.46.2
+[INFO] - [25-11-2026 10:52:17] [main] [com.automationexercise.utils.allurereport.AllureBinaryManager] - Allure binaries already exist.
+[INFO] - [25-11-2026 10:52:17] [main] [com.automationexercise.listeners.TestNGListeners] - Allure environment set
+[INFO] - [25-11-2026 10:52:17] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Ghost\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[INFO] - [25-11-2026 10:52:26] [main] [com.automationexercise.utils.BrowserActions] - Open website with URL: https://automationexercise.com
+[INFO] - [25-11-2026 10:52:26] [main] [com.automationexercise.listeners.TestNGListeners] - Configuration Method  beforeClass passed
+[INFO] - [25-11-2026 10:52:27] [main] [com.automationexercise.listeners.TestNGListeners] - Test Case testCasesTC started
+[INFO] - [25-11-2026 10:52:27] [main] [com.automationexercise.utils.ElementActions] - Click on element  Test Cases
+[INFO] - [25-11-2026 10:52:35] [main] [com.automationexercise.utils.ScreenshotUtils] - Capturing Screenshot Succeeded
+[INFO] - [25-11-2026 10:52:39] [main] [com.automationexercise.listeners.TestNGListeners] - Test case testCasesTC passed
+[INFO] - [25-11-2026 10:52:40] [main] [com.automationexercise.listeners.TestNGListeners] - Configuration Method  closeBrowser passed
+[INFO] - [25-11-2026 10:52:44] [main] [com.automationexercise.listeners.TestNGListeners] - History copied
+[INFO] - [25-11-2026 10:52:49] [main] [com.automationexercise.utils.FilesUtils] - Target File Path: "C:\Users\Ghost\IdeaProjects\TestExercise\test-outputs\reports\index.html", file was renamed to "AllureReport_٢٠٢٦-١١-٢٥_١٠-٥٢-٤٩.html".
+[INFO] - [25-11-2026 10:52:50] [main] [com.automationexercise.listeners.TestNGListeners] - Test Execution Finished
+[INFO] - [25-11-2026 10:52:54] [main] [com.automationexercise.listeners.TestNGListeners] - Test Execution started
+[INFO] - [25-11-2026 10:52:55] [main] [com.automationexercise.listeners.TestNGListeners] - Directories cleaned
+[INFO] - [25-11-2026 10:52:55] [main] [com.automationexercise.utils.FilesUtils] - Directory created: test-outputs/screenshots/
+[INFO] - [25-11-2026 10:52:55] [main] [com.automationexercise.utils.FilesUtils] - Directory created: test-outputs/recordings/
+[INFO] - [25-11-2026 10:52:55] [main] [com.automationexercise.listeners.TestNGListeners] - Directories created
+[INFO] - [25-11-2026 10:52:55] [main] [com.automationexercise.utils.PropertiesUtils] - Loading Properties File Data
+[INFO] - [25-11-2026 10:52:55] [main] [com.automationexercise.listeners.TestNGListeners] - Properties loaded
+[INFO] - [25-11-2026 10:52:55] [main] [com.automationexercise.utils.allurereport.AllureEnvironmentManager] - Allure environment variables set.
+[INFO] - [25-11-2026 10:52:56] [main] [com.automationexercise.utils.allurereport.AllureBinaryManager$LazyHolder] - Resolved Allure version: 2.46.2
+[INFO] - [25-11-2026 10:52:56] [main] [com.automationexercise.utils.allurereport.AllureBinaryManager] - Allure binaries already exist.
+[INFO] - [25-11-2026 10:52:56] [main] [com.automationexercise.listeners.TestNGListeners] - Allure environment set
+[INFO] - [25-11-2026 10:52:57] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Ghost\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[INFO] - [25-11-2026 10:53:06] [main] [com.automationexercise.utils.BrowserActions] - Open website with URL: https://automationexercise.com
+[INFO] - [25-11-2026 10:53:06] [main] [com.automationexercise.listeners.TestNGListeners] - Configuration Method  beforeClass passed
+[INFO] - [25-11-2026 10:53:06] [main] [com.automationexercise.listeners.TestNGListeners] - Test Case verifyAllProducts started
+[INFO] - [25-11-2026 10:53:07] [main] [com.automationexercise.utils.ElementActions] - Click on element  Products
+[INFO] - [25-11-2026 10:53:18] [main] [com.automationexercise.utils.ScreenshotUtils] - Capturing Screenshot Succeeded
+[INFO] - [25-11-2026 10:53:22] [main] [com.automationexercise.listeners.TestNGListeners] - Test case verifyAllProducts failed
+[INFO] - [25-11-2026 10:53:23] [main] [com.automationexercise.listeners.TestNGListeners] - Configuration Method  closeBrowser passed
+[INFO] - [25-11-2026 10:53:28] [main] [com.automationexercise.listeners.TestNGListeners] - History copied
+[INFO] - [25-11-2026 10:53:33] [main] [com.automationexercise.utils.FilesUtils] - Target File Path: "C:\Users\Ghost\IdeaProjects\TestExercise\test-outputs\reports\index.html", file was renamed to "AllureReport_٢٠٢٦-١١-٢٥_١٠-٥٣-٣٣.html".
+[INFO] - [25-11-2026 10:53:34] [main] [com.automationexercise.listeners.TestNGListeners] - Test Execution Finished
+[INFO] - [25-11-2026 10:54:31] [main] [com.automationexercise.listeners.TestNGListeners] - Test Execution started
+[INFO] - [25-11-2026 10:54:31] [main] [com.automationexercise.listeners.TestNGListeners] - Directories cleaned
+[INFO] - [25-11-2026 10:54:31] [main] [com.automationexercise.utils.FilesUtils] - Directory created: test-outputs/screenshots/
+[INFO] - [25-11-2026 10:54:31] [main] [com.automationexercise.utils.FilesUtils] - Directory created: test-outputs/recordings/
+[INFO] - [25-11-2026 10:54:31] [main] [com.automationexercise.listeners.TestNGListeners] - Directories created
+[INFO] - [25-11-2026 10:54:31] [main] [com.automationexercise.utils.PropertiesUtils] - Loading Properties File Data
+[INFO] - [25-11-2026 10:54:31] [main] [com.automationexercise.listeners.TestNGListeners] - Properties loaded
+[INFO] - [25-11-2026 10:54:31] [main] [com.automationexercise.utils.allurereport.AllureEnvironmentManager] - Allure environment variables set.
+[INFO] - [25-11-2026 10:54:33] [main] [com.automationexercise.utils.allurereport.AllureBinaryManager$LazyHolder] - Resolved Allure version: 2.46.2
+[INFO] - [25-11-2026 10:54:33] [main] [com.automationexercise.utils.allurereport.AllureBinaryManager] - Allure binaries already exist.
+[INFO] - [25-11-2026 10:54:33] [main] [com.automationexercise.listeners.TestNGListeners] - Allure environment set
+[INFO] - [25-11-2026 10:54:34] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Ghost\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[INFO] - [25-11-2026 10:54:43] [main] [com.automationexercise.utils.BrowserActions] - Open website with URL: https://automationexercise.com
+[INFO] - [25-11-2026 10:54:44] [main] [com.automationexercise.listeners.TestNGListeners] - Configuration Method  beforeClass passed
+[INFO] - [25-11-2026 10:54:44] [main] [com.automationexercise.listeners.TestNGListeners] - Test Case verifyAllProducts started
+[INFO] - [25-11-2026 10:54:44] [main] [com.automationexercise.utils.ElementActions] - Click on element  Products
+[INFO] - [25-11-2026 10:54:55] [main] [com.automationexercise.utils.ElementActions] - Click on element  View Product
+[INFO] - [25-11-2026 10:54:57] [main] [com.automationexercise.utils.ScreenshotUtils] - Capturing Screenshot Succeeded
+[INFO] - [25-11-2026 10:55:02] [main] [com.automationexercise.listeners.TestNGListeners] - Test case verifyAllProducts passed
+[INFO] - [25-11-2026 10:55:03] [main] [com.automationexercise.listeners.TestNGListeners] - Configuration Method  closeBrowser passed
+[INFO] - [25-11-2026 10:55:08] [main] [com.automationexercise.listeners.TestNGListeners] - History copied
+[INFO] - [25-11-2026 10:55:15] [main] [com.automationexercise.utils.FilesUtils] - Target File Path: "C:\Users\Ghost\IdeaProjects\TestExercise\test-outputs\reports\index.html", file was renamed to "AllureReport_٢٠٢٦-١١-٢٥_١٠-٥٥-١٥.html".
+[INFO] - [25-11-2026 10:55:16] [main] [com.automationexercise.listeners.TestNGListeners] - Test Execution Finished
+[INFO] - [25-11-2026 10:59:08] [main] [com.automationexercise.listeners.TestNGListeners] - Test Execution started
+[INFO] - [25-11-2026 10:59:08] [main] [com.automationexercise.listeners.TestNGListeners] - Directories cleaned
+[INFO] - [25-11-2026 10:59:08] [main] [com.automationexercise.utils.FilesUtils] - Directory created: test-outputs/screenshots/
+[INFO] - [25-11-2026 10:59:08] [main] [com.automationexercise.utils.FilesUtils] - Directory created: test-outputs/recordings/
+[INFO] - [25-11-2026 10:59:08] [main] [com.automationexercise.listeners.TestNGListeners] - Directories created
+[INFO] - [25-11-2026 10:59:08] [main] [com.automationexercise.utils.PropertiesUtils] - Loading Properties File Data
+[INFO] - [25-11-2026 10:59:08] [main] [com.automationexercise.listeners.TestNGListeners] - Properties loaded
+[INFO] - [25-11-2026 10:59:09] [main] [com.automationexercise.utils.allurereport.AllureEnvironmentManager] - Allure environment variables set.
+[INFO] - [25-11-2026 10:59:11] [main] [com.automationexercise.utils.allurereport.AllureBinaryManager$LazyHolder] - Resolved Allure version: 2.46.2
+[INFO] - [25-11-2026 10:59:11] [main] [com.automationexercise.utils.allurereport.AllureBinaryManager] - Allure binaries already exist.
+[INFO] - [25-11-2026 10:59:11] [main] [com.automationexercise.listeners.TestNGListeners] - Allure environment set
+[INFO] - [25-11-2026 10:59:12] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Ghost\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[INFO] - [25-11-2026 11:00:48] [main] [com.automationexercise.utils.BrowserActions] - Open website with URL: https://automationexercise.com
+[INFO] - [25-11-2026 11:00:49] [main] [com.automationexercise.listeners.TestNGListeners] - Configuration Method  beforeClass passed
+[INFO] - [25-11-2026 11:00:49] [main] [com.automationexercise.listeners.TestNGListeners] - Test Case verifyAllProducts started
+[INFO] - [25-11-2026 11:00:51] [main] [com.automationexercise.utils.ScreenshotUtils] - Capturing Screenshot Succeeded
+[INFO] - [25-11-2026 11:00:56] [main] [com.automationexercise.listeners.TestNGListeners] - Test case verifyAllProducts failed
+[INFO] - [25-11-2026 11:00:56] [main] [com.automationexercise.listeners.TestNGListeners] - Configuration Method  closeBrowser passed
+[INFO] - [25-11-2026 11:01:03] [main] [com.automationexercise.listeners.TestNGListeners] - History copied
+[INFO] - [25-11-2026 11:01:09] [main] [com.automationexercise.utils.FilesUtils] - Target File Path: "C:\Users\Ghost\IdeaProjects\TestExercise\test-outputs\reports\index.html", file was renamed to "AllureReport_٢٠٢٦-١١-٢٥_١١-٠١-٠٩.html".
+[INFO] - [25-11-2026 11:01:10] [main] [com.automationexercise.listeners.TestNGListeners] - Test Execution Finished

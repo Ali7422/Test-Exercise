@@ -1,0 +1,14 @@
+launch_status failed=0 ١٧٩٥٥٩٧٢٦١٠٠٠٠٠٠٠٠٠
+launch_status broken=1 ١٧٩٥٥٩٧٢٦١٠٠٠٠٠٠٠٠٠
+launch_status passed=0 ١٧٩٥٥٩٧٢٦١٠٠٠٠٠٠٠٠٠
+launch_status skipped=0 ١٧٩٥٥٩٧٢٦١٠٠٠٠٠٠٠٠٠
+launch_status unknown=0 ١٧٩٥٥٩٧٢٦١٠٠٠٠٠٠٠٠٠
+launch_time duration=6257 ١٧٩٥٥٩٧٢٦١٠٠٠٠٠٠٠٠٠
+launch_time min_duration=6257 ١٧٩٥٥٩٧٢٦١٠٠٠٠٠٠٠٠٠
+launch_time max_duration=6257 ١٧٩٥٥٩٧٢٦١٠٠٠٠٠٠٠٠٠
+launch_time sum_duration=6257 ١٧٩٥٥٩٧٢٦١٠٠٠٠٠٠٠٠٠
+launch_time start=1795597249650 ١٧٩٥٥٩٧٢٦١٠٠٠٠٠٠٠٠٠
+launch_time stop=1795597255907 ١٧٩٥٥٩٧٢٦١٠٠٠٠٠٠٠٠٠
+launch_problems test_defects=1 ١٧٩٥٥٩٧٢٦١٠٠٠٠٠٠٠٠٠
+launch_retries retries=0 ١٧٩٥٥٩٧٢٦١٠٠٠٠٠٠٠٠٠
+launch_retries run=1 ١٧٩٥٥٩٧٢٦١٠٠٠٠٠٠٠٠٠

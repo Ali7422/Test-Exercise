@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite" verbose="1">
+    <test name="RegressionTest">
+        <classes>
+            <class name="com.automationexercise.tests.TC1_RegisterUser"/>
+            <class name="com.automationexercise.tests.TC2_ValidLogin"/>
+            <class name="com.automationexercise.tests.TC3_InvalidLogin"/>
+            <class name="com.automationexercise.tests.TC4_Logout"/>
+            <class name="com.automationexercise.tests.TC5_RegisterExistingEmail"/>
+            <class name="com.automationexercise.tests.TC6_ContactUs"/>
+            <class name="com.automationexercise.tests.TC7_TestCases"/>
+            <class name="com.automationexercise.tests.TC8_VerifyAllProducts"/>
+        </classes>
+    </test>
+</suite>
